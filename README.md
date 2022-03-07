@@ -1,6 +1,5 @@
 
 ## Cách tính BMI theo chiều cao và cân nặng 
-
 #
 1. Công thức tính chỉ số BMI
 Chỉ số BMI còn được gọi là chỉ số khối lượng cơ thể (Body Mass Index). Dựa vào chỉ số BMI của một người có thể biết được người đó béo, gầy hay có cân nặng lý tưởng. Chỉ số này được đề ra lần đầu tiên vào năm 1832 bởi một nhà khoa học người Bỉ. Công thức tính chỉ số BMI tương đối đơn giản, chỉ dựa vào 2 chỉ số là chiều cao và cân nặng:

@@ -1,6 +1,3 @@
-# caculator_bmi
-
-![Caculator BMI](https://user-images.githubusercontent.com/44427325/156991425-ea469ee4-07c3-4ebc-b42e-09fe6d016a9e.gif)
 
 ## Cách tính BMI theo chiều cao và cân nặng 
 
@@ -32,4 +29,8 @@ Cân nặng tối thiểu là: 70 x 8 :10 = 56kg
 Do đó, chỉ cần dựa vào số lẻ chiều cao, bạn có thể nhận định ngay mức cân nặng tối đa cho phép. Nếu bạn vượt qua mức cân nặng tối đa tức là bạn đã bị thừa cân.
 
 ![image](https://user-images.githubusercontent.com/44427325/156992087-6cc7b33d-6cb0-477a-8ea4-7d9fb44fbed8.png)
+
+# Demo Caculator BMI
+
+![Caculator BMI](https://user-images.githubusercontent.com/44427325/156991425-ea469ee4-07c3-4ebc-b42e-09fe6d016a9e.gif)
 
